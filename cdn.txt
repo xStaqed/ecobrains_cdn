@@ -1,1 +1,2 @@
 cdn.ecobrains.it
+cdn2.ecobrains.it
